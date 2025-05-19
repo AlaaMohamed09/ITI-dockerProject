@@ -25,7 +25,7 @@
 To get started, clone the repository to your local machine using the following command:
 
 ```bash
-git clone 
+git clone https://github.com/AlaaMohamed09/ITI-dockerProject.git
 ```
 
 ### Run the Project with Docker Compose
