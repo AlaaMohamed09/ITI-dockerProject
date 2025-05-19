@@ -1,8 +1,8 @@
-# DEPI-Graduationproject
+# ITI-dockerProject
 
 ## Overview
 
-**DEPI-Graduationproject** is a 3-tier web application designed to demonstrate the use of Docker containers and images in modern web development. The project was developed as a practice exercise to gain hands-on experience with creating Docker images for both server-side and client-side applications, as well as orchestrating them using Docker Compose. It features a SQL Server database for persistent data storage, an ASP.NET Core Web API for handling server-side logic, and an Angular front-end interface. The application implements full CRUD (Create, Read, Update, Delete) operations on a "Product" entity, serving as a practical example of using Docker to containerize multi-tier applications.
+**ITI-dockerProject** is a 3-tier web application designed to demonstrate the use of Docker containers and images in modern web development. The project was developed as a practice exercise to gain hands-on experience with creating Docker images for both server-side and client-side applications, as well as orchestrating them using Docker Compose. It features a SQL Server database for persistent data storage, an ASP.NET Core Web API for handling server-side logic, and an Angular front-end interface. The application implements full CRUD (Create, Read, Update, Delete) operations on a "Product" entity, serving as a practical example of using Docker to containerize multi-tier applications.
 
 ## Technologies Used
 
